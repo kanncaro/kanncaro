@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="giphy.gif" alt="Animated Banner" width="100%">
+  <img src="200.webp" alt="Animated Banner" width="100%">
 </p>
